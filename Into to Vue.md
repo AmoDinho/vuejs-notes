@@ -23,4 +23,4 @@ MODIFIERS
 
 @click.native so that you can listen to native events in the DOM
 
-[Image of directives]()
+![Image of directives](https://github.com/AmoDinho/vuejs-notes/raw/master/screenshot-css-tricks.com-2018.08.21-12-29-12.png)
