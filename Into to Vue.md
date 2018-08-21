@@ -22,3 +22,5 @@ MODIFIERS
 @click.once not to be confused with v-once, this click event will be triggered once.
 
 @click.native so that you can listen to native events in the DOM
+
+[Image of directives]()
