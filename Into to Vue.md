@@ -1,3 +1,50 @@
+# Directives & Data Rendering
+
+## DIRECTIVES
+v-text
+mastuche like templates
+
+v-html
+for strings that html elements that need to be rendered
+
+v-show / v-if
+
+A conditional that displays info once it has met a requirement. 
+
+v-else/v-else-if
+Conditionally render items
+
+v-for
+Loops through a set of values 
+
+v-on / @
+for binding click events 
+
+
+v-bind / :
+can be used for class binding or style binding
+
+
+v-model
+Creates relationship between data in instance and form input to dynamically update vaules
+
+v-pre 
+will not update once its been rendered
+
+v-once 
+will print inner text how it is.
+
+
+v-cloak
+
+## Modifiers
+
+v-model.trim : strips whitespace from string
+
+v-model.number changes strings to number inputs
+
+v-model.lazy won’t populate the content automatically, it will wait to bind until an event happens. 
+
 ## Multiple Bindings
 
 ```
