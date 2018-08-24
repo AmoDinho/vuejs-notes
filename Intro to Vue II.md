@@ -19,3 +19,11 @@ Used for calculations that will be cached and updated when needed.
 * Cached
 * Should be used as a property, in place of data
 * By default getter only, but you can define a setter
+
+
+# Watchers
+
+### Reacters
+Reactive programming has async data streams.
+
+A stream is a sequence of contious events ordered in time that offer hooks to observe it. 
