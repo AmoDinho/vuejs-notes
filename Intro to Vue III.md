@@ -19,3 +19,15 @@ text: {
    }
   }
 ```
+
+We use v-bind or : to dynamically bind props to data on the parent:
+
+```
+//not using state of the parent
+<child count="1"></child>
+
+//using the state of the parent
+<child :count="count"></child>
+
+
+```
