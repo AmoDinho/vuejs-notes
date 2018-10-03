@@ -80,8 +80,14 @@ MODIFIERS
 
 [Intro To Vue_IV](https://codepen.io/Amo-Prince/pen/JBbwrG)
 
+[Vue Directives practice](https://codepen.io/Amo-Prince/pen/jvPXdo)
+[Vue: V-HTML](https://codepen.io/Amo-Prince/pen/oPNRZQ)
+[Vue:V-TEXT](https://codepen.io/Amo-Prince/pen/Jajqrm)
 [Vue:V-ON or @](https://codepen.io/Amo-Prince/pen/mGdgQQ)
 [Vue: V-ONCE/V-PRE](https://codepen.io/Amo-Prince/pen/Pdogjy)
 [Vue:V-BIND](https://codepen.io/Amo-Prince/pen/PdogGB)
 [Vue Modifiers](https://codepen.io/Amo-Prince/pen/QVWogr)
+[V-IF/V-SHOW](https://codepen.io/Amo-Prince/pen/zJYbex)
+[V-IF/V-ELSE](https://codepen.io/Amo-Prince/pen/QVWoYJ)
+[Vue:Failed Exercise](https://codepen.io/Amo-Prince/pen/JajQdQ)
 
