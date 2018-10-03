@@ -71,3 +71,17 @@ MODIFIERS
 @click.native so that you can listen to native events in the DOM
 
 ![Image of directives](https://github.com/AmoDinho/vuejs-notes/raw/master/screenshot-css-tricks.com-2018.08.21-12-29-12.png)
+
+## Codepen links to some examples:
+
+
+
+[Intro To Vue](https://codepen.io/Amo-Prince/pen/oMYQQv)
+
+[Intro To Vue_IV](https://codepen.io/Amo-Prince/pen/JBbwrG)
+
+[Vue:V-ON or @](https://codepen.io/Amo-Prince/pen/mGdgQQ)
+[Vue: V-ONCE/V-PRE](https://codepen.io/Amo-Prince/pen/Pdogjy)
+[Vue:V-BIND](https://codepen.io/Amo-Prince/pen/PdogGB)
+[Vue Modifiers](https://codepen.io/Amo-Prince/pen/QVWogr)
+
