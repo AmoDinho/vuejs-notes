@@ -27,3 +27,14 @@ Used for calculations that will be cached and updated when needed.
 Reactive programming has async data streams.
 
 A stream is a sequence of contious events ordered in time that offer hooks to observe it. 
+
+We can access the old and new values, as well as gaining access to nested values with 'deep':
+
+```
+watch: {
+  watchedProperty (value, oldValue) {
+    //your dope code here
+  }
+},
+
+```
