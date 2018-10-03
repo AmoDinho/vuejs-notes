@@ -38,3 +38,18 @@ watch: {
 },
 
 ```
+
+
+## Links to some examples on CodePen
+
+
+[Vue Directives practice](https://codepen.io/Amo-Prince/pen/jvPXdo)
+[Vue: Methods (comments)](https://codepen.io/Amo-Prince/pen/GXJegK)
+[Methods](https://codepen.io/Amo-Prince/pen/RYPdVw)
+[Vue: Methods in Forms](https://codepen.io/Amo-Prince/pen/OoVGwE)
+[Vue Methods: Sorting](https://codepen.io/Amo-Prince/pen/rZOPvW)
+[Vue Computed props(https://codepen.io/Amo-Prince/pen/oPjmOy)
+[Vue Computed: Exercise](https://codepen.io/Amo-Prince/pen/GXpLVy)
+[Vue: Watchers II](https://codepen.io/Amo-Prince/pen/WarMqO)
+[Vue: Watchers I](https://codepen.io/Amo-Prince/pen/ZqQrJJ)
+[Vue: Slots](https://codepen.io/Amo-Prince/pen/qJbQjW)
