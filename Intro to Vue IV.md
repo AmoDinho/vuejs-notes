@@ -30,3 +30,5 @@ The other way is to use the CLI from a [Codesandbox template](https://codesandbo
 * `mounted()` => `beforeUpdate()`/`updated()`/`activated()`/`deactivated()`
 * `beforeDestroy()`
 * `destroyed()`
+
+Lifecycle hooks are auto-bound to the instance that will allow you access to the component's state and methods. Avoid using arrow functions on a lifecycle method, it will return the parent.
